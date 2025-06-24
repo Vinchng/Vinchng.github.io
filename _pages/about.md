@@ -21,9 +21,7 @@ I'm a MSc student from [Mechanical Automation Engineering](https://www4.mae.cuhk
 
 You can find my CV here: [Li's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025.pdf).
 
-[Email: tao.naian@columbia.edu](mailto:tao.naian@columbia.edu)
-
-[LinkedIn: linkedin.com/in/naian-tao](linkedin.com/in/naian-tao)
+[Email: jinchengli0315@gmail.com](mailto:jinchengli0315@gmail.com)
 
 
 # 🔥 News
