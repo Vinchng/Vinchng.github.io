@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a MSc student from [Machanical Automation Engineering](https://www4.mae.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). My research interest includes robotics, robot manipulator, artificial intelligence, control and cloud-based vehicle control.
+I'm a MSc student from [Mechanical Automation Engineering](https://www4.mae.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). My research interest includes robotics, robot manipulator, artificial intelligence, control and cloud-based vehicle control.
 
 You can find my CV here: [Li's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025.pdf).
 
@@ -51,8 +51,19 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Mechatronics Modeling & Simulation
+- *Aug 2024 – Present*. [The Chinese University of Hong Kong](https://www4.mae.cuhk.edu.hk/), Hong Kong, CN
+  - MSc. in Mechanical Automation Engineering, GPA: 3.54/4.00
+  - Courses: Robotics Studio, Reinforcement Learning, Control, Intro to Robotics
+
+- *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://www.udmercy.edu/), Detroit, MI, US
+  - B.E. in Mechatronics, Robotics, and Automation Engineering, GPA: 3.81/4.00
+  - Courses: Robotics, Autonomous Mobility Robotics, Embedded Systems, Computational Intelligence Technique
+
+- *Sept 2020 - Jun 2024*. [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm), Beijing, CN
+  - B.E. in Mechanical Design, Manufacturing and Automation, GPA: 3.62/4.33
+  - Courses: Automatic Control Design, Artificial Intelligence, Mechine Design, Program Design, Hydraulic and Atmospheric Pressure Transmission 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
