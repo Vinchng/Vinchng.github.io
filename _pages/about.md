@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first-year M.S. student from [Department of Mechanical Engineering](https://www.me.columbia.edu/), [Columbia University](https://www.columbia.edu/). My research interest includes robotics, robot manipulator, artificial intelligence, control and cloud-based vehicle control.
+I'm a MSc student from [Machanical Automation Engineering](https://www4.mae.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). My research interest includes robotics, robot manipulator, artificial intelligence, control and cloud-based vehicle control.
 
 You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025.pdf).
 
