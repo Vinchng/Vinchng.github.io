@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a MSc student from [Machanical Automation Engineering](https://www4.mae.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). My research interest includes robotics, robot manipulator, artificial intelligence, control and cloud-based vehicle control.
 
-You can find my CV here: [Tao's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025.pdf).
+You can find my CV here: [Li's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025.pdf).
 
 [Email: tao.naian@columbia.edu](mailto:tao.naian@columbia.edu)
 
