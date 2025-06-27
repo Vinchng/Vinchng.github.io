@@ -26,6 +26,14 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025
 
 # 📝 Publications 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">ICEMA 2022</div>
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
 [Working principle and application analysis of UART](https://ieeexplore.ieee.org/document/10090571)
 
 **Jincheng Li**, Jianfeng Chen, Lehan Cao
