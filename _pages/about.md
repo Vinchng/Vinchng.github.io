@@ -34,7 +34,16 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025
 **Jincheng Li**, Jianfeng Chen, Lehan Cao
 
 # 🚀 Projects
-
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">Bipedal Robot</div>
+    <img src='images/Bruce.gif' alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
