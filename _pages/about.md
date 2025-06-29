@@ -42,6 +42,14 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
+
+**Balance Control and Motion Design for the Bruce Bipedal Robot**
+
+- Successfully implemented stable bipedal standing, walking, squatting, and jumping for the Bruce robot.
+- Applied QP (Quadratic Programming)-based control to maintain dynamic balance during motion execution and center-of-mass (CoM) transitions.
+- Developed mid-level control code for task-specific CoM trajectory planning and execution of robotic movements.
+- Designed user-facing high-level code to interpret input commands, enabling real-time robot control and seamless task switching.
+
 </div>
 </div>
 
