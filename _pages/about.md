@@ -37,7 +37,7 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <div class="badge">Bipedal Robot</div>
+    <div class="badge">Bruce Robot</div>
     <img src='images/Bruce.gif' alt="sym" width="100%">
   </div>
   </div>
