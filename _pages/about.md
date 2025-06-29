@@ -56,7 +56,7 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025
   <div class='paper-box-image'>
   <div>
     <div class="badge">LQR Inverted Pendulum</div>
-    <img src='images/LQR_Pendulum.gif' alt="sym" width="50%">
+    <img src='images/LQR_Pendulum.gif' alt="sym" width="100%">
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
