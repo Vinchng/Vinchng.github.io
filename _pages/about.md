@@ -74,18 +74,17 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/Naian_Tao_CV_Jan_2025
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <div class="badge">LQR Inverted Pendulum</div>
-    <img src='images/LQR_Pendulum.gif' alt="sym" width="100%">
+    <div class="badge">Senior Project</div>
+    <img src='images/SeniorProject.gif' alt="sym" width="100%">
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-**Balance Control and Motion Design for the Bruce Bipedal Robot**
+**Indoor Assistive Robot System**
 
-- Successfully implemented stable bipedal standing, walking, squatting, and jumping for the Bruce robot.
-- Applied QP (Quadratic Programming)-based control to maintain dynamic balance during motion execution and center-of-mass (CoM) transitions.
-- Developed mid-level control code for task-specific CoM trajectory planning and execution of robotic movements.
-- Designed user-facing high-level code to interpret input commands, enabling real-time robot control and seamless task switching.
+- Co-developed an indoor assistive robot system integrating computer vision, robotic arm grasping, and multi-target navigation. The system understood user needs via voice interaction, recognized target objects in real-time, grasped them, and delivered them to users.
+- Used Pioneer 3DX as the platform, employed the move_base package for navigation, Microsoft Azure for voice interaction, Kinect v2 and YOLOv8 for object recognition, and the Trossen RX200 robotic arm with MoveIt for arm training and grasping.
+- Responsible for multi-target navigation: configured the global and local planners in move_base, tuned Gmapping and costmap parameters, implemented an A*-based multi-target navigation node, and developed communication nodes for arm and vision modules.
 
 </div>
 </div>
