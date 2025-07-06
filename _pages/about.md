@@ -33,15 +33,14 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/NewCV_LJC.pdf).
 
 # 🚀 Projects
 <div class='paper-box'>
-  <div class='paper-box-image'>
-  <div>
-    <div style="display: flex; gap: 10px;">
-    <div class="badge">Bruce Robot</div>
-    <img src='images/Bruce.gif' alt="sym" width="70%">
-    <img src='images/Bruce_Gazebo.gif' alt="sym" width="70%">
+  <div class='paper-box-image' style="display: flex; align-items: flex-start; gap: 10px;">
+    <div class="badge" style="align-self: flex-start;">Bruce Robot</div>
+    <img src='images/Bruce.gif' alt="sym" style="width: 45%; height: auto;">
+    <img src='images/Bruce_Gazebo.gif' alt="sym" style="width: 45%; height: auto;">
   </div>
+  <div class='paper-box-text' markdown="1">
   </div>
-<div class='paper-box-text' markdown="1">
+</div>
 
 **Balance Control and Motion Design for the Bruce Bipedal Robot**
 
