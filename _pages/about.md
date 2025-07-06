@@ -89,6 +89,24 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/NewCV_LJC.pdf).
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">Senior Project</div>
+    <img src='images/cable_robot.gif' alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**2D Cable Driven Robot**
+
+- Co-developed an indoor assistive robot system integrating computer vision, robotic arm grasping, and multi-target navigation. The system understood user needs via voice interaction, recognized target objects in real-time, grasped them, and delivered them to users.
+- Used Pioneer 3DX as the platform, employed the move_base package for navigation, Microsoft Azure for voice interaction, Kinect v2 and YOLOv8 for object recognition, and the Trossen RX200 robotic arm with MoveIt for arm training and grasping.
+- Responsible for multi-target navigation: configured the global and local planners in move_base, tuned Gmapping and costmap parameters, implemented an A*-based multi-target navigation node, and developed communication nodes for arm and vision modules.
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.02* Beijing University of Chemical Technology Single-Item Scholarship
 
