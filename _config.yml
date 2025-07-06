@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   #images/android-chrome-512x512.png
   name             : "Jincheng Li"
-  avatar           : "Li_0315.jpg"
+  avatar           : "images/Li_0315.jpg"
   bio              : "The Chinese University of Hong Kong"
   location         : "Shenzhen, China"
   employer         :
