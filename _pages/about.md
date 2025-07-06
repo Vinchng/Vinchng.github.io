@@ -35,9 +35,10 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/NewCV_LJC.pdf).
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
+    <div style="display: flex; gap: 10px;">
     <div class="badge">Bruce Robot</div>
-    <img src='images/Bruce.gif' alt="sym" width="100%">
-    <img src='images/Bruce_Gazebo.gif' alt="sym" width="100%">
+    <img src='images/Bruce.gif' alt="sym" width="70%">
+    <img src='images/Bruce_Gazebo.gif' alt="sym" width="70%">
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
