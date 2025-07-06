@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Li's website"
 description              : "Do your best and leave the rest. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jincheng Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "Li.jpg"
   bio              : "The Chinese University of Hong Kong"
   location         : "Shenzhen, China"
   employer         :
