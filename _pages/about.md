@@ -39,8 +39,6 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/NewCV_LJC.pdf).
     <img src='images/Bruce_Gazebo.gif' alt="sym" style="width: 45%; height: auto;">
   </div>
   <div class='paper-box-text' markdown="1">
-  </div>
-</div>
 
 **Balance Control and Motion Design for the Bruce Bipedal Robot**
 
