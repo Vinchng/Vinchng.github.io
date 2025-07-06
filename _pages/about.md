@@ -23,6 +23,19 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/NewCV_LJC.pdf).
 
 [Email: jinchengli0315@gmail.com](mailto:jinchengli0315@gmail.com)
 
+# 📖 Educations
+Mechatronics Modeling & Simulation
+- *Aug 2024 – Present*. [The Chinese University of Hong Kong](https://www4.mae.cuhk.edu.hk/), Hong Kong, CN
+  - MSc. in Mechanical Automation Engineering, **GPA: 3.54/4.00**
+  - Courses: Robotics Studio, Reinforcement Learning, Control, Intro to Robotics
+
+- *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://www.udmercy.edu/), Detroit, MI, US
+  - B.E. in Mechatronics, Robotics, and Automation Engineering, **GPA: 3.91/4.00**
+  - Courses: Robotics, Autonomous Mobility Robotics, Embedded Systems, Computational Intelligence Technique
+
+- *Sept 2020 - Jun 2024*. [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm), Beijing, CN
+  - B.E. in Mechanical Design, Manufacturing and Automation, **GPA: 3.33/4.33**
+  - Courses: Automatic Control Design, Artificial Intelligence, Mechine Design, Program Design, Hydraulic and Atmospheric Pressure Transmission 
 
 # 📝 Publications 
 
@@ -108,17 +121,3 @@ You can find my CV here: [Li's Curriculum Vitae](../assets/NewCV_LJC.pdf).
 
 # 🎖 Honors and Awards
 - *2023.02* Beijing University of Chemical Technology Single-Item Scholarship
-
-# 📖 Educations
-Mechatronics Modeling & Simulation
-- *Aug 2024 – Present*. [The Chinese University of Hong Kong](https://www4.mae.cuhk.edu.hk/), Hong Kong, CN
-  - MSc. in Mechanical Automation Engineering, **GPA: 3.54/4.00**
-  - Courses: Robotics Studio, Reinforcement Learning, Control, Intro to Robotics
-
-- *Aug 2023 - Jun 2024*. [University of Detroit Mercy](https://www.udmercy.edu/), Detroit, MI, US
-  - B.E. in Mechatronics, Robotics, and Automation Engineering, **GPA: 3.91/4.00**
-  - Courses: Robotics, Autonomous Mobility Robotics, Embedded Systems, Computational Intelligence Technique
-
-- *Sept 2020 - Jun 2024*. [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm), Beijing, CN
-  - B.E. in Mechanical Design, Manufacturing and Automation, **GPA: 3.33/4.33**
-  - Courses: Automatic Control Design, Artificial Intelligence, Mechine Design, Program Design, Hydraulic and Atmospheric Pressure Transmission 
