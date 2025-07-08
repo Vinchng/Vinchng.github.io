@@ -120,3 +120,11 @@ Mechatronics Modeling & Simulation
 
 # 🎖 Honors and Awards
 - *2023.02* Beijing University of Chemical Technology Single-Item Scholarship
+
+
+# 🧠 Skills
+- **Language Skill:** Fluent in English listening and speaking, capable of seamless daily communication.
+- **Programming Language:** Profecient in Python, C++, Matlab. Especially in Robotics.
+- **Microcontroller Applications:** Proficient in using Texas Instruments TM4C series, STM32 series, 89C52 microcontroller, and Arduino.
+- Proficient in using Raspberry Pi 4B for Linux development.
+
