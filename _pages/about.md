@@ -67,18 +67,17 @@ Mechatronics Modeling & Simulation
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <div class="badge">LQR Inverted Pendulum</div>
+    <div class="badge">Cart-Pole</div>
     <img src='images/LQR_Pendulum.gif' alt="sym" width="100%">
   </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-**Balance Control and Motion Design for the Bruce Bipedal Robot**
+**Simscape Simulation of the Cart-Pole Model**
 
-- Successfully implemented stable bipedal standing, walking, squatting, and jumping for the Bruce robot.
-- Applied QP (Quadratic Programming)-based control to maintain dynamic balance during motion execution and center-of-mass (CoM) transitions.
-- Developed mid-level control code for task-specific CoM trajectory planning and execution of robotic movements.
-- Designed user-facing high-level code to interpret input commands, enabling real-time robot control and seamless task switching.
+- Built a classic Cart-Pole model for the inverted pendulum system using MATLAB Simulink and Simscape Multibody.
+- Developed a physical model of the entire inverted pendulum system and extracted the characteristic matrix.
+- Designed a controller using the LQR algorithm to stabilize the cart at the origin.
 
 </div>
 </div>
@@ -104,7 +103,7 @@ Mechatronics Modeling & Simulation
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
-    <div class="badge">Senior Project</div>
+    <div class="badge">Cable Robot</div>
     <img src='images/cable_robot.gif' alt="sym" width="100%">
   </div>
   </div>
