@@ -111,9 +111,9 @@ Mechatronics Modeling & Simulation
 
 **2D Cable Driven Robot**
 
-- Co-developed an indoor assistive robot system integrating computer vision, robotic arm grasping, and multi-target navigation. The system understood user needs via voice interaction, recognized target objects in real-time, grasped them, and delivered them to users.
-- Used Pioneer 3DX as the platform, employed the move_base package for navigation, Microsoft Azure for voice interaction, Kinect v2 and YOLOv8 for object recognition, and the Trossen RX200 robotic arm with MoveIt for arm training and grasping.
-- Responsible for multi-target navigation: configured the global and local planners in move_base, tuned Gmapping and costmap parameters, implemented an A*-based multi-target navigation node, and developed communication nodes for arm and vision modules.
+- Built a 2D four-motor cable-driven robot platform from scratch, achieving precise movement of the end-effector within a 2D plane. 
+- Used a Raspberry Pi 4B as the main controller, equipped with a Waveshare 2-CH CAN FD HAT board to convert the Raspberry Pi's SPI interface to a CAN bus interface for communication with four VESC FSESCv6.7 motor driver boards. Leveraged the CAN bus to enable communication between the motor drivers and the Raspberry Pi, achieving precise control of the end-effector position and trajectory through inverse kinematics. 
+- Developed a Python library for Raspberry Pi to interact with VESC drivers, including basic functions such as angle control, current control, and speed control, as well as auxiliary code for inverse kinematics and trajectory planning. 
 
 </div>
 </div>
