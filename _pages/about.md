@@ -118,6 +118,23 @@ Mechatronics Modeling & Simulation
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">Tm4c_Cart</div>
+    <img src='images/tm4c_cart.png' alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**TM4C-Based Bluetooth Remote-Controlled Car**
+
+- A two-wheel differential remote-controlled car was built using the TM4C microcontroller, WHEELTEC motors with encoders, and an HC-05 Bluetooth module.
+- An incremental PID algorithm was implemented as the speed loop controller, achieving precise motion control via a mobile app through Bluetooth remote control.  
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.02* Beijing University of Chemical Technology Single-Item Scholarship
 
