@@ -45,6 +45,43 @@ Mechatronics Modeling & Simulation
 **ICEMA-2022**
 
 # 🚀 Projects
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">AMP for G1</div>
+    <img src='images/AMP.gif' alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**AMP RL Walking for Unitree G1**
+
+- Built a classic Cart-Pole model for the inverted pendulum system using MATLAB Simulink and Simscape Multibody.
+- Developed a physical model of the entire inverted pendulum system and extracted the characteristic matrix.
+- Designed a controller using the LQR algorithm to stabilize the cart at the origin.
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">PPO CartPole</div>
+    <img src='images/PPO_Cartpole.gif' alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**PPO Cart-Pole Control**
+
+- Built a classic Cart-Pole model for the inverted pendulum system using MATLAB Simulink and Simscape Multibody.
+- Developed a physical model of the entire inverted pendulum system and extracted the characteristic matrix.
+- Designed a controller using the LQR algorithm to stabilize the cart at the origin.
+
+</div>
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image' style="display: flex; align-items: flex-start; gap: 10px;">
     <div class="badge" style="align-self: flex-start;">Bruce Robot</div>
@@ -52,42 +89,6 @@ Mechatronics Modeling & Simulation
     <img src='images/Bruce_Gazebo.gif' alt="sym" style="width: 45%; height: auto;">
   </div>
   <div class='paper-box-text' markdown="1">
-
-**Simscape Simulation of the Cart-Pole Model**
-
-- Built a classic Cart-Pole model for the inverted pendulum system using MATLAB Simulink and Simscape Multibody.
-- Developed a physical model of the entire inverted pendulum system and extracted the characteristic matrix.
-- Designed a controller using the LQR algorithm to stabilize the cart at the origin.
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-  <div>
-    <div class="badge">Senior Project</div>
-    <img src='images/AMP.gif' alt="sym" width="100%">
-  </div>
-  </div>
-<div class='paper-box-text' markdown="1">
-
-**Simscape Simulation of the Cart-Pole Model**
-
-- Built a classic Cart-Pole model for the inverted pendulum system using MATLAB Simulink and Simscape Multibody.
-- Developed a physical model of the entire inverted pendulum system and extracted the characteristic matrix.
-- Designed a controller using the LQR algorithm to stabilize the cart at the origin.
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-  <div>
-    <div class="badge">Senior Project</div>
-    <img src='images/PPO_Cartpole.gif' alt="sym" width="100%">
-  </div>
-  </div>
-<div class='paper-box-text' markdown="1">
 
 **Balance Control and Motion Design for the Bruce Bipedal Robot**
 
@@ -98,7 +99,6 @@ Mechatronics Modeling & Simulation
 
 </div>
 </div>
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
