@@ -49,6 +49,25 @@ Mechatronics Modeling & Simulation
 <div class='paper-box'>
   <div class='paper-box-image'>
   <div>
+    <div class="badge">GMR for Booster K1</div>
+    <img src='images/GMR.gif' alt="sym" width="100%">
+  </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**GMR Retargeting for Booster K1**
+
+- Built a classic Cart-Pole model for the inverted pendulum system using MATLAB Simulink and Simscape Multibody.
+- Developed a physical model of the entire inverted pendulum system and extracted the characteristic matrix.
+- Designed a controller using the LQR algorithm to stabilize the cart at the origin.
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
     <div class="badge">AMP for G1</div>
     <img src='images/AMP.gif' alt="sym" width="100%">
   </div>
